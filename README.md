@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=C6E4BF&height=200&section=header&fontSize=90)
 <!-- text=capsule%20render -->
 
